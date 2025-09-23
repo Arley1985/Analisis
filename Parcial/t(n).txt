@@ -1,0 +1,6 @@
+def best_performance():
+for n in range(2,1_000_000):
+if 500*math.:
+return n
+
+print("este es el umbral: ", best_performance())

@@ -1,0 +1,18 @@
+import macth
+
+def best_performance():
+variable = 0
+for n in range(1,50):
+if (2*n**2 + 20*n < 5*n**2 and 20*n < 3*n**2 and n >20/3:
+variable = n
+break 
+return variable
+
+print(best_performance())
+
+n = 9
+
+print(2*n**2 + 20*n < 5*n**2)
+print(20*n<3*n**2)
+print(n>20/3)
+
